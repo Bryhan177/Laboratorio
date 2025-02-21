@@ -1,5 +1,5 @@
 # ![Logo del Proyecto](https://raw.githubusercontent.com/Bryhan177/Laboratorio/main/logo.jpg)
-# 🚀 Nombre del Proyecto
+# 🚀 Laboratorio de metodologias participativas
 
 > Breve descripción impactante de lo que hace tu proyecto.
 
