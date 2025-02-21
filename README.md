@@ -1,4 +1,4 @@
-# ![Logo del Proyecto](img/logo.png)
+# ![Logo del Proyecto](img/logo.jpg)
 
 # 🚀 Nombre del Proyecto
 
