@@ -1,4 +1,4 @@
-# ![Logo del Proyecto](img/logo.jpg)
+# ![Logo del Proyecto](https://img.freepik.com/vector-gratis/ilustracion-ideas-bombilla_53876-18149.jpg)
 
 # 🚀 Nombre del Proyecto
 
@@ -15,9 +15,9 @@ Escribe aquí una descripción más detallada de tu proyecto. Explica para qué 
 
 ## 🛠️ Tecnologías utilizadas
 
-- ⚡ **Framework / Lenguaje**: Ejemplo (Angular, NestJS, React, etc.)
-- 🗄 **Base de datos**: Ejemplo (MongoDB, MySQL, PostgreSQL, etc.)
-- 🔧 **Herramientas**: Ejemplo (Docker, Firebase, etc.)
+- ⚡ **Framework / Lenguaje**: (Angular, NestJS, Tailwind, Boostrap)
+- 🗄 **Base de datos**: Ejemplo (MongoDB)
+- 🔧 **Herramientas**: Ejemplo (Firebase)
 
 ## 📸 Capturas de pantalla
 
@@ -29,11 +29,11 @@ _Agrega imágenes o GIFs mostrando el funcionamiento de tu proyecto._
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPO.git
+   git clone https://github.com/Bryhan177/Laboratorio.git
    ```
 2. Ingresa a la carpeta del proyecto:
    ```bash
-   cd TU_REPO
+   cd Laboratorio
    ```
 3. Instala las dependencias:
    ```bash
@@ -42,7 +42,7 @@ _Agrega imágenes o GIFs mostrando el funcionamiento de tu proyecto._
 4. Configura las variables de entorno _(si aplica)_.
 5. Ejecuta el proyecto:
    ```bash
-   npm run start
+   npm run start:dev
    ```
 
 ## 📌 Uso
@@ -71,9 +71,9 @@ Este proyecto está bajo la licencia **MIT**. Puedes leer más en el archivo [`L
 ## 📞 Contacto
 
 Si tienes alguna duda, puedes contactarme en:
-📧 **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
-🐦 **Twitter**: [@tuusuario](https://twitter.com/tuusuario)
-💼 **LinkedIn**: [Tu Nombre](https://linkedin.com/in/tuusuario)
+📧 **Correo**: [BryhanCode](bryhanstif@gmail.com)
+🐦 **Twitter**: [@BryhanCode](https://twitter.com/tuusuario)
+💼 **LinkedIn**: [BryhanCode]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/bryhan-stif-cordoba-marin-16081a314/))
 
 ---
 ✨ _Si te gustó este proyecto, ¡dale una ⭐ y sígueme en GitHub!_
