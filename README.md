@@ -1,5 +1,4 @@
-# ![Logo del Proyecto](https://img.freepik.com/vector-gratis/ilustracion-ideas-bombilla_53876-18149.jpg)
-
+# ![Logo del Proyecto](https://raw.githubusercontent.com/Bryhan177/Laboratorio/main/logo.jpg)
 # 🚀 Nombre del Proyecto
 
 > Breve descripción impactante de lo que hace tu proyecto.
